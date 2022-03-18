@@ -3,7 +3,7 @@
     <el-row>
   <el-button  @click="goin('/map')">画点弹详情</el-button>
   <el-button type="primary" @click="goin('/map2')">多地图切换</el-button>
-  <el-button type="success">成功按钮</el-button>
+  <el-button type="success">成功按钮2</el-button>
   <el-button type="info">信息按钮</el-button>
   <el-button type="warning">警告按钮</el-button>
   <el-button type="danger">危险按钮</el-button>
